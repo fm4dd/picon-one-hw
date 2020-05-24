@@ -1,0 +1,68 @@
+Item,Qty,Reference,Part Description,Type,Manufacturer,Manufacturer Part-#,Distributor,Distributor Part-#
+1,1,D2,LED Green Diffused 3mm round,THT,Wurth Electronics Inc.,151031VS06000,Digi-Key,732-5008-ND
+2,1,D3,LED Yellow Diffused 3mm round,THT,Wurth Electronics Inc.,151031YS06000,Digi-Key,732-5010-ND
+3,1,R20,RES 330 OHM 1/4W 1% AXIAL,THT,Stackpole Electronics Inc,RNMF14FTC330R,Digi-Key,S330CACT-ND
+4,1,R21,RES 220 OHM 1/4W 1% AXIAL,THT,Stackpole Electronics Inc,RNMF14FTC220R,Digi-Key,S220CACT-ND
+5,1,R22,RES 10K OHM 1/4W 1% AXIAL,THT,Stackpole Electronics Inc,RNMF14FTC10K0,Digi-Key,S10KCACT-ND
+6,1,R23,RES 100 OHM 1/4W 1% AXIAL,THT,Stackpole Electronics Inc,RNMF14FTC100R,Digi-Key,S100CACT-ND
+7,2,"J1, J2",2x 2.54-pin x6 header for serial pinout,THT,N/A,N/A,Digi-Key,N/A
+,,,,,,,,
+Item,Qty,Reference,Part Description,Type,Manufacturer,Manufacturer Part-#,Distributor,Distributor Part-#
+8,1,12V1,Barrel Jack Connector 2.1mm,THT,CUI Inc.,PJ-002A,Digi-Key,CP-002A-ND
+9,1,12V2,TERM BLK 2P SIDE ENT 5.08MM PCB,THT, On Shore Technology Inc.,OSTTC022162,Digi-Key,ED2609-ND
+10,1,U1,DC DC CONVERTER 5V 2W,THT,Texas Instruments,DCR021205P,Digi-Key,296-36927-5-ND
+11,1,C1,CAP CER 2.2pF 50V C0G Radial,THT,TDK,FG28C0G1H2R2CNT06,Digi-Key,445-173491-1-ND
+12,1,C2,CAP CER 1UF 50V X8L Radial,THT,KEMET,C320C105K5N5TA91707301,Digi-Key,399-14394-1-ND
+13,1,C3,CAP CER 0.1UF 50V X7R RADIAL,THT,AVX,SR215C104KAT,Digi-Key,SR215C104KAT-ND
+14,1,R1,RES 1K OHM 1/4W 1% AXIAL,THT,Stackpole Electronics Inc,RNMF14FTC1K0,Digi-Key,S1KCACT-ND
+15,1,D1,LED Red Diffused 3mm round,THT,Wurth Electronics Inc.,151031SS04000,Digi-Key,732-5005-ND
+16,1,M1,PWRBOOST 1000 5V LIPO USB,THT,Adafruit Industries LLC,2465,Digi-Key,1528-1349-ND
+17,1,JP1,2x 2.54-pin header and Jumper,THT,,,Digi-Key,
+,,,,,,,,
+Item,Qty,Reference,Part Description,Type,Manufacturer,Manufacturer Part-#,Distributor,Distributor Part-#
+18,1,M2,Arduino MKR GPS Shield,THT,Arduino,ASX00017,Digi-Key,1050-1171-ND
+,,,,,,,,
+Item,Qty,Reference,Part Description,Type,Manufacturer,Manufacturer Part-#,Distributor,Distributor Part-#
+19,2,"DS1, DS2",0.39 Inch 4-Digit 7-Segment Display,THT,OptoSupply,OSL40391-LRA,Akizuki,I-09971
+20,1,U2,TM1640 LED driver IC,SMT,Titan Microelectronics,TM1640,LCSC,C41327
+21,2,"R12, R13",RES 10K OHM 1/4W 1% AXIAL,THT,Stackpole Electronics Inc,RNMF14FTC10K0,Digi-Key,S10KCACT-ND
+,,,,,,,,
+Item,Qty,Reference,Part Description,Type,Manufacturer,Manufacturer Part-#,Distributor,Distributor Part-#
+22,1,DIP1," DIP SWITCH, SPST, 2.54 PITCH, RA",THT,CUI Devices, DS01-254-S-02BE,Digi-Key, 2223-DS01-254-S-02BE-ND
+23,4,SW1-SW4,12mm SWITCH TACTILE SPST-NO 0.05A 24V,THT,TE Connectivity, FSM103,Digi-Key, 450-1158-ND
+24,4,"C4, C5, C6, C7",CAP CER 1UF 50V X8L Radial,THT,KEMET,C320C105K5N5TA91707301,Digi-Key,399-14394-1-ND
+25,6,"R2-4, R6, R8, R10",RES 10K OHM 1/4W 1% AXIAL,THT,Stackpole Electronics Inc,RNMF14FTC10K0,Digi-Key,S10KCACT-ND
+26,4,"R5, R7, R9, R11",RES 2K2 OHM 1/4W 1% AXIAL,THT,Stackpole Electronics Inc,RNMF14FAD2K20,Digi-Key,RNMF14FAD2K20CT-ND
+,,,,,,,,
+Item,Qty,Reference,Part Description,Type,Manufacturer,Manufacturer Part-#,Distributor,Distributor Part-#
+27,1,M3,Xbee RF TXRX Module S2C,THT,Digi International,XB24CZ7PIT-004,Digi-Key,602-1557-ND
+28,1,R19,RES 330 OHM 1/4W 1% AXIAL,THT,Stackpole Electronics Inc,RNMF14FTC330R,Digi-Key,S330CACT-ND
+29,1,D4,LED Red Diffused 3mm round,THT,Wurth Electronics Inc.,151031SS04000,Digi-Key,732-5005-ND
+,,,,,,,,
+Item,Qty,Reference,Part Description,Type,Manufacturer,Manufacturer Part-#,Distributor,Distributor Part-#
+30,1,MCU1,Raspberry Pi Zero W BCM2835,NA,Pi Supply,RPI-027,Digi-Key,1910-1000-ND
+31,1,N/A,CONN RCPT 40POS 0.1 TIN PCB,THT,Harwin Inc.,M20-7832046,Digi-Key,952-2150-ND
+32,4,N/A,BOARD SUPRT SNAP LOCK NYLON 11MM,NA,WÅrth Elektronik,709670110,Digi-Key,732-10378-ND
+,,,,,,,,
+Item,Qty,Reference,Part Description,Type,Manufacturer,Manufacturer Part-#,Distributor,Distributor Part-#
+33,1,M4,"3.5"" TFT 320X480 Touchscreen",THT,Adafruit Industries LLC,2050,Digi-Key,1528-1470-ND
+34,1,N/A,40-pin Socket 2.54mm single row,THT,"Neltron Industrial Co., Ltd.",6604-S,Akizuki,P-01591
+35,2,N/A,"2.54mm Pin Header Strip, Straight, Single Row",THT,"Useconn Electronics, Ltd",PHA-1x40SG-XX,Akizuki,C-06637
+,,,,,,,,
+Item,Qty,Reference,Part Description,Type,Manufacturer,Manufacturer Part-#,Distributor,Distributor Part-#
+36,1,U3,DS3231 I2C Real Time Clock IC,SMT,Maxim Integrated,DS3231M+TRL,LCSC,C37663
+37,1,BT1,BATTERY RETAINER COIN 12MM SMD,SMT,Linx Technologies Inc.,BAT-HLD-012-SMT,Digi-Key,BAT-HLD-012-SMT-ND
+38,2,"R14, R15",RES 10K OHM 1/4W 1% AXIAL,THT,Stackpole Electronics Inc,RNMF14FTC10K0,Digi-Key,S10KCACT-ND
+,,,,,,,,
+Item,Qty,Reference,Part Description,Type,Manufacturer,Manufacturer Part-#,Distributor,Distributor Part-#
+39,1,N/A,SPCP IP67 POLYCARBONATE ENCLOSURE,NA,Takachi,SPCP131805T,Amazon,N/A
+40,4,N/A,MACH SCREW BINDING HEAD COMBO M4,NA,Keystone Electronics,7799-1,Digi-Key,36-7799-1-ND
+,,,,,,,,
+Item,Qty,Reference,Part Description,Type,Manufacturer,Manufacturer Part-#,Distributor,Distributor Part-#
+41,1,U4,SC16IS752 Dual UART IC,SMT,NXP,"SC16IS752IPW,128",Digi-Key,568-11944-1-ND
+42,1,Y1,CRYSTAL 14.74560MHZ 30PF,THT,IQD Frequency Products,LFXTAL003224BULK,Digi-Key,1923-1432-ND
+43,1,C8,CAP 22pF 10% 50V X7R C_0805,SMT,Samsung,CL21C220JBANNNC,LCSC,C1804
+44,1,C9,CAP 33pF 5% 50V C_0805,SMT,Samsung,CL21C330JBANNNC,LCSC,C1814
+45,1,C10,CAP 100nF 5% 50V X7R C_0805,SMT,Samsung,CL21B104JBCNNNC,LCSC,C62912
+46,1,R16,RES 10K OHM 1% R_0805,SMT,Uniroyal Elec,0805W8F1002T5E,LCSC,C17414
+47,2,"R17,R18",RES 1K OHM 1% R_0805,SMT,Uniroyal Elec,0805W8F1001T5E,LCSC,C17513
